@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>The Author</title>
-    <link>http://localhost:1313/</link>
+    <link>https://ndthang13.github.io/</link>
     <description>Recent content on The Author</description>
     <generator>Hugo -- 0.149.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Sep 2025 10:35:14 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Sep 2025 10:48:36 +0700</lastBuildDate>
+    <atom:link href="https://ndthang13.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>http://localhost:1313/posts/2025-09-06-test/main/</link>
-      <pubDate>Sat, 06 Sep 2025 10:35:14 +0700</pubDate>
-      <guid>http://localhost:1313/posts/2025-09-06-test/main/</guid>
+      <link>https://ndthang13.github.io/posts/2025-09-06-test/main/</link>
+      <pubDate>Sat, 06 Sep 2025 10:48:36 +0700</pubDate>
+      <guid>https://ndthang13.github.io/posts/2025-09-06-test/main/</guid>
       <description>&lt;p&gt;&lt;em&gt;Test&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
